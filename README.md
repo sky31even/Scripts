@@ -10,8 +10,8 @@ git clone this repo to home dir
 
 put this cmd into iterm2's profile 
 
-'/Users/{home}/Scripts/open_in_iterm.sh'
+```/Users/{home}/Scripts/open_in_iterm.sh```
 
 # step 3
 
-change profile's "send text at start" to 'rga-fzf'
+change profile's "send text at start" to ```rga-fzf```
